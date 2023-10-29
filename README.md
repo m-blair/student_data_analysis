@@ -5,5 +5,11 @@ and various dataframe transformations and operations. **This a work in progress.
 [Data from Kaggle](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption?select=student-merge.R) <br>
 
 
-<img src="/figures/parent_edu_vs_student_grades.png" width="600" height="400" />
-<img src="/figures/age_dist_by_class.png" width="600" height="400" />
+
+
+<p float="left">
+  <img src="/figures/parent_edu_vs_student_grades.png" width="400" />
+  <img src="/figures/age_dist_by_class.png" width="400" /> 
+  <img src="/figures/rel_alc_cons.png" width="400" />
+  <img src="/figures/parent_edu2.png" width="400"/>
+</p>
